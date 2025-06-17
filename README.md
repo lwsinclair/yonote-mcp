@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cutalion-yonote-mcp-badge.png)](https://mseep.ai/app/cutalion-yonote-mcp)
+
 # Yonote MCP Server Prototype
 [![smithery badge](https://smithery.ai/badge/@cutalion/yonote-mcp)](https://smithery.ai/server/@cutalion/yonote-mcp)
 
